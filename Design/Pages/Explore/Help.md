@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Card Mockup" src="https://cdn.rawgit.com/jtmcgrath/book-bingo/8404ba3c/Design/Pages/Explore/page-explore-help.jpg" />
+  <img alt="Card Mockup" src="https://cdn.jsdelivr.net/gh/jtmcgrath/book-bingo@8404ba3c/Design/Pages/Explore/page-explore-help.jpg" />
 </p>
 
 # Help

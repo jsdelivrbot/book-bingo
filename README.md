@@ -1,6 +1,6 @@
 <h1 align="center">
 	<br>
-	<img width="200" src="https://cdn.rawgit.com/jtmcgrath/book-bingo/fc9e3fad/book-bingo.svg" alt="Book Bingo">
+	<img width="200" src="https://cdn.jsdelivr.net/gh/jtmcgrath/book-bingo@fc9e3fad/book-bingo.svg" alt="Book Bingo">
 	<br>
 </h1>
 
